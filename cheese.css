@@ -1,4 +1,11 @@
-
+:root{
+  --color-text: #2b2118;
+  --color-accent: #9a6700;
+  --color-background: #fff8e7;
+  --color-muted: #6f6257;
+  --content-width: 70rem;
+  --font-stack: Georgia, "Times New Roman", serif;
+}
 
 * {
   margin: 0;
